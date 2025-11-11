@@ -1,0 +1,114 @@
+═══════════════════════════════════════════════════════════════
+  ISO 27001 DASHBOARD - STREAMLIT
+  Guide de démarrage ultra-rapide
+═══════════════════════════════════════════════════════════════
+
+🚀 DÉMARRAGE EN 30 SECONDES
+─────────────────────────────────────────────────────────────
+
+🪟 WINDOWS:
+   1. Double-clic sur: RUN_STREAMLIT.bat
+   2. Attendre que le navigateur s'ouvre
+   3. C'est prêt! 🎉
+
+🍎 MAC / 🐧 LINUX:
+   1. Ouvrir terminal
+   2. chmod +x RUN_STREAMLIT.sh
+   3. ./RUN_STREAMLIT.sh
+   4. C'est prêt! 🎉
+
+
+📁 FICHIERS INCLUS
+─────────────────────────────────────────────────────────────
+
+✅ app_streamlit.py              → Application Streamlit
+✅ streamlit_requirements.txt     → Dépendances
+✅ RUN_STREAMLIT.bat             → Lanceur Windows
+✅ RUN_STREAMLIT.sh              → Lanceur Mac/Linux
+✅ STREAMLIT_README.txt          → Documentation complète
+✅ DEPLOYMENT_GUIDE.txt          → Guide déploiement en ligne
+✅ STREAMLIT_QUICK_START.txt    → Ce fichier
+
+
+⚠️  NOTE IMPORTANTE
+─────────────────────────────────────────────────────────────
+
+Le fichier app_streamlit.py contient une VERSION SIMPLIFIÉE
+avec seulement 2 contrôles pour des raisons de taille.
+
+Pour avoir les 93 contrôles complets:
+1. Ouvrir app_streamlit.py dans un éditeur
+2. Remplacer tasks_data = [...]  par toutes les données
+   du fichier JSON original
+3. Sauvegarder et relancer
+
+
+✨ FONCTIONNALITÉS
+─────────────────────────────────────────────────────────────
+
+📊 Vue d'ensemble:
+   • Métriques en temps réel
+   • Graphiques interactifs
+
+📋 Tableau:
+   • Liste des contrôles
+   • Filtrable
+
+📈 Graphiques:
+   • Visualisations Plotly
+   • Distribution par responsable
+
+🌐 Bilingue:
+   • FR ↔ EN
+   • Sidebar
+
+
+🌐 METTRE EN LIGNE GRATUITEMENT
+─────────────────────────────────────────────────────────────
+
+Voir le fichier: DEPLOYMENT_GUIDE.txt
+
+En résumé:
+1. Créer compte GitHub (gratuit)
+2. Uploader les fichiers
+3. Déployer sur Streamlit Cloud (gratuit)
+4. Votre app est en ligne! 🎉
+
+Temps total: 5 minutes
+Coût: 0€
+
+
+📚 DOCUMENTATION COMPLÈTE
+─────────────────────────────────────────────────────────────
+
+Voir: STREAMLIT_README.txt
+• Installation détaillée
+• Personnalisation
+• Déploiement
+• FAQ
+
+
+🆘 PROBLÈMES?
+─────────────────────────────────────────────────────────────
+
+❌ Python pas installé?
+   → https://www.python.org/downloads/
+
+❌ L'app ne démarre pas?
+   → pip install streamlit pandas plotly
+   → streamlit run app_streamlit.py
+
+❌ Questions?
+   → Voir STREAMLIT_README.txt
+
+
+═══════════════════════════════════════════════════════════════
+
+🎯 PROCHAINE ÉTAPE:
+
+Double-cliquez sur RUN_STREAMLIT.bat (Windows)
+ou lancez ./RUN_STREAMLIT.sh (Mac/Linux)
+
+Votre dashboard s'ouvrira automatiquement! 🚀
+
+═══════════════════════════════════════════════════════════════
